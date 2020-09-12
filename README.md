@@ -1,4 +1,4 @@
-## Cómo utilizar git y GitHub
+## Cómo utilizar git y GitHub by behagoras
 
 Este repositorio sirve como resúmen del [curso de Git y github de Platzi](https://platzi.com/github), por [Freddy Vega](https://github.com/freddier/hyperblog).
 
